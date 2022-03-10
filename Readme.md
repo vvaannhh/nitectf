@@ -17,7 +17,7 @@ Our question creator has deviated from the standard method of making questions. 
 ### Solution
 - Sử dụng stegsolve.jar -> 1 qr code bị mất góc phần tư đầu tiên bên trái.
 - Dùng chỉnh sửa ảnh để thêm hình vuông màu đen tiêu chuẩn ở phía trên bên trái để giúp máy quét QR phát hiện nó tốt hơn.
-- Up ảnh vừa sủa lên [web](https://merricx.github.io/qrazybox/) -> sau khi web nhận ảnh -> Tools -> Extract QR Information -> Flag.
+- Up ảnh vừa sửa lên [web](https://merricx.github.io/qrazybox/) -> sau khi web nhận ảnh -> Tools -> Extract QR Information -> Flag.
 - Flag: nite{tH@T'$_qRazzYyYy}
 ## Erased
 Saw my drive bloated with images and unecessary files, decided to wipe it. Turns out I removed some important files. I went and recovered them but seems like I still can't find the file or should I say the file contents.
